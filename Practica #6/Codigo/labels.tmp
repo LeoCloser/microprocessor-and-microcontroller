@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega1280</DEVICE>
+ <WORKING_DIR>C:\microprocesadores\prac6b</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\microprocesadores\prac6b\prac6b.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\microprocesadores\prac6b\prac6b.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\microprocesadores\prac6b\prac6b.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\microprocesadores\prac6b\prac6b.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <infinito><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>13</LINE></infinito>
+  <nohacer><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>14</LINE></nohacer>
+  <tagRZ><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>23</LINE></tagRZ>
+  <mover_rY><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>30</LINE></mover_rY>
+  <nxt><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>36</LINE></nxt>
+  <nextRequister><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>27</LINE></nextRequister>
+  <nxt2><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>62</LINE></nxt2>
+  <loop><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>40</LINE></loop>
+  <salto><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>47</LINE></salto>
+  <resultado30><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>53</LINE></resultado30>
+  <guardarY><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>58</LINE></guardarY>
+  <siguiente><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>60</LINE></siguiente>
+  <loop2><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>67</LINE></loop2>
+  <salto2><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>74</LINE></salto2>
+  <guardarY2><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>84</LINE></guardarY2>
+  <siguiente2><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>86</LINE></siguiente2>
+  <fin><FILE>C:\microprocesadores\prac6b\prac6b.asm</FILE><LINE>89</LINE></fin>
+ </LABELS>
+</ASSEMBLER_INFO>
